@@ -1,1 +1,30 @@
-## programs to be asked in interviews
+## Programs to be asked in interviews
+- Reverse a string without using built in methods
+- Check if a string is palindrome,ignoring case
+- Count the number of vowels and consonants in a string
+- find the longest substring without repeating characters
+- Check if a string contains only Digits
+- Swap Case of Each Character in a string
+- Find the non repeating character in a string
+- Convert string to a character array and back
+- Count the number of words in a string using regex
+- Implement string comparission using counts of repeated characters
+- Extract a substring between two characters
+- Check if two strings are rotations of each other
+- Find all permutations of a given string
+- Find the minimum number of steps to convert one string to another
+- Count the frequency of each character in a string
+- create a new string by removing all occurances of a given character
+- Determine if a string is a valid number
+- check if a string is an isogram(no repeated characters)
+- implement method to compare two strings for equality(without using .equals())
+- Rotate a string to the left by a given number of characters
+- Replace all instances of a substring with another substring
+- check f a string is a subsequence of another string
+- find all unique characters in string
+- convert a given string to camel case
+- count the number of time one string occurs in another
+- extract numbers from a string and return as a list
+- validate a string as proper email address
+- find the position of a substring in a string
+- merge two strings alternately
